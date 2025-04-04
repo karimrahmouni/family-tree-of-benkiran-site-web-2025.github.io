@@ -1,0 +1,19 @@
+/***** No Script Stylesheet *****/
+#mainmenu li:hover ul{
+display:block;		
+}
+
+#slideshow-container:before {
+top:47%;
+left:9.4%;
+position:relative;
+font-size:16px;
+font-family:'Raleway', Helvetica, Arial;
+text-transform:uppercase;
+font-weight:300;
+color:#fff;
+content: "Hi, your javascript is off..!! for optimal results on this site please enable javascript in your browser";
+}
+
+#slideshow-container {background:#59b8f7 url(../images/slideshow/bg_sld1.png) no-repeat;}
+.banner li {display:none;}
